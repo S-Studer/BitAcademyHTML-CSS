@@ -1,0 +1,37 @@
+
+
+
+.reviewPagina {
+    display: flex;
+}
+
+
+.greedBox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    flex-shrink: 1;
+    flex: 4;
+}
+
+
+.advertentieEen{
+    background-color: darkblue;
+    color: white;
+    padding: 20px;
+    flex-shrink: 2;
+    flex: 1;
+
+}
+
+
+
+
+.infoBox {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
